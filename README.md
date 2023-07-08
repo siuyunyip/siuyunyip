@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 🎉 **Welcome to my GitHub profile!**
 
--    🎓 I am now studying at Trinity College Dublin, Ireland 🇮🇪, doing my Master in Computer Science - Future Networked Systems.
+-    🎓 I am now studying at Trinity College Dublin, Ireland 🇮🇪, doing Master in Computer Science - Future Networked Systems.
 -    💻 I'm a passionate, self-taught developer 📝 with great enthusiasm in technologies under the hood and growing interest in Fintech.
 -    🧑‍💻 I worked as a Java Developer Intern for six months and am now transitioning to a Full-stack Developer.
 -    💥 I love  photograhpy📸, hiking🏔️, movies📽️, and music🎧.
