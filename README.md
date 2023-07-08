@@ -27,18 +27,18 @@ Here are some ideas to get you started:
     <a href="mailto:yzyyezhaoyuan@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=Email&message=siuyun&color=7BB32E&logo=Gmail"/></a>
     <!-- https://visitor-badge.glitch.me/ -->
     <!-- https://github.com/Nathan13888/VisitorBadgeReloaded#-migrating-from-visitor-badge -->
-    <img src="https://vbr.wocr.tk/badge?page_id=siuyunyip.visitors&left_color=green&right_color=red" alt="Visitor" />
+    <img src="https://komarev.com/ghpvc/?username=siuyunyip&label=Visitors&color=0e75b6&style=flat-square" alt="siuyunyip" />
 </p>
 
 <br/>
 
 🎉 **Welcome to my GitHub profile!**
 
--    🎓 I am now studying at Trintiy College Dublin, Ireland 🇮🇪, doing my Master in Computer Science - Future Networked Systems.
--    💻 I'm a passionate, self-taught developer 📝 with great enthusiasm in technologies under the hood, and growing interest in Fintech.
--    🧑‍💻 I was working as a Java Developer Intern for six months and now I am in the transition to a Full-stack Developer.
+-    🎓 I am now studying at Trinity College Dublin, Ireland 🇮🇪, doing my Master in Computer Science - Future Networked Systems.
+-    💻 I'm a passionate, self-taught developer 📝 with great enthusiasm in technologies under the hood and growing interest in Fintech.
+-    🧑‍💻 I worked as a Java Developer Intern for six months and am now transitioning to a Full-stack Developer.
 -    💥 I love  photograhpy📸, hiking🏔️, movies📽️, and music🎧.
--    ☕️  I code, read and drink too much coffee.
+-    ☕️  I code, read, and drink too much coffee.
 
 
 <!-- code.gif -->
