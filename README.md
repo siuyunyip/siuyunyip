@@ -62,12 +62,12 @@ fullstack + devops side project using typescript + java.
 - [MIT 6.824](https://#) - This is a private repo complying to the course rule that published code is not allowed.
 
 ### Coursework
-- [TCD-Advanced_Software_Engineering](https://github.com/Shritesh99/sustainable-city-management) - A sustainable city management system 
+- [TCD-Advanced Software Engineering](https://github.com/Shritesh99/sustainable-city-management) - A sustainable city management system 
 using Flutter + Go + gRPC + Kubernetes.
 - [TCD-Internet Of Things](https://github.com/geniusAhua/IOT_CS7NS2) - A IoT-based Smart Bin System.
 - [TCD-Information Retrival](https://github.com/taaanmay/CS7IS3-Assignment-2) - A document retrieval system using Lucene query module.
-- [TCD-Machine_Learning](https://github.com/Eytins/CatClassifier) - A cat classifier.
-- [TCD-Machine_Learning](https://github.com/siuyunyip/ML_Final_Assignment_Airbnb) - A machine learning final project about airbnb rating
+- [TCD-Machine Learning](https://github.com/Eytins/CatClassifier) - A cat classifier.
+- [TCD-Machine Learning](https://github.com/siuyunyip/ML_Final_Assignment_Airbnb) - A machine learning final project about airbnb rating
 prediction.
 - [TCD-Adaptive Application](https://github.com/avinash-syl/fitness_coach) - A recommendation system using Bootstrap5 + Django.
 - [TCD-Scalable Computing](https://github.com/siuyunyip/CS7NS1-Project3-Diver/tree/main) - Implementation of routing rules under the concepts of NDN network with vanilla Python.
