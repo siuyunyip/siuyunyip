@@ -156,8 +156,10 @@ Here are some ideas to get you started:
 🔥 My projects:
 ---
 ### In Progress
-- [Online library](https://github.com/CodeMagician0/fullstack-online-library) - Collaborate with [Pookii](https://github.com/Pookii), a
-fullstack + devops side project using typescript + java.
+- [Online library](https://github.com/CodeMagician0/) - Collaborate with [Pookii](https://github.com/Pookii), a
+fullstack + DevOps side project using typescript + java.
+  - [Frontend](https://github.com/CodeMagician0/online-library-frontend)
+  - [Backend](https://github.com/CodeMagician0/online-library-backend)
 - [Spring](https://github.com/siuyunyip/tiny_spring) - A tiny spring framework for learning purpose
 - [MIT 6.824](https://#) - This is a private repo complying to the course rule that published code is not allowed.
 
