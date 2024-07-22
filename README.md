@@ -34,11 +34,10 @@ Here are some ideas to get you started:
 
 🎉 **Welcome to my GitHub profile!**
 
--    🎓 I am now studying at Trinity College Dublin, Ireland 🇮🇪, doing Master in Computer Science - Future Networked Systems.
--    💻 I'm a passionate, self-taught developer 📝 with great enthusiasm in technologies under the hood and growing interest in Fintech.
--    🧑‍💻 I worked as a Java Developer Intern for six months and am now transitioning to a Full-stack Developer.
+-    🧑‍💻 I am a software engineer based in Ireland 🇮🇪.
+-    💻 I use Golang for work, and am now learning Rust. I used to be a Java developer.
 -    💥 I love  photograhpy📸, hiking🏔️, movies📽️, and music🎧.
--    ☕️  I code, read, and drink too much coffee.
+-    ☕️  I code, read, and drink moderate coffee☕.
 
 
 <!-- code.gif -->
@@ -153,16 +152,18 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help;
 
 
+🔥 Recent Updates:
+---
+### Books
+- HOW TO TRADE IN STOCKS by JESSE L. LIVERMORE
+- THE AUTOIMMUNE FIX by TOM O'BRYAN
+
+### New Maps
+- [Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/references/slices.html)
+- CSAPP
+
 🔥 My projects:
 ---
-### In Progress
-- [Online library](https://github.com/CodeMagician0/) - Collaborate with [Pookii](https://github.com/Pookii), a
-fullstack + DevOps side project using typescript + java.
-  - [Frontend](https://github.com/CodeMagician0/online-library-frontend)
-  - [Backend](https://github.com/CodeMagician0/online-library-backend)
-- [Spring](https://github.com/siuyunyip/tiny_spring) - A tiny spring framework for learning purpose
-- [MIT 6.824](https://#) - This is a private repo complying to the course rule that published code is not allowed.
-
 ### Coursework
 - [TCD-Advanced Software Engineering](https://github.com/Shritesh99/sustainable-city-management) - A sustainable city management system 
 using Flutter + Go + gRPC + Kubernetes.
