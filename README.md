@@ -159,7 +159,7 @@ Here are some ideas to get you started:
 - THE AUTOIMMUNE FIX by TOM O'BRYAN
 
 ### New Maps
-- [Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/references/slices.html)
+- [The Rust Programming Language 🦀](https://rust-book.cs.brown.edu/)
 - CSAPP
 
 🔥 My projects:
