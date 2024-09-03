@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 <!-- Typing SVG Fast Demo - https://readme-typing-svg.herokuapp.com/demo/ -->
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&center=true&lines=I'm+a+passionate+developer;Open+to+learn+everything+new" alt="Typing SVG" />
-</p>
-
-
-<p align="center">
     <img src="https://img.shields.io/badge/gender-%F0%9F%A4%B5 gentleman-critical" />
     <a href="mailto:yzyyezhaoyuan@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=Email&message=siuyun&color=7BB32E&logo=Gmail"/></a>
     <!-- https://visitor-badge.glitch.me/ -->
