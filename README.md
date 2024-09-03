@@ -155,12 +155,12 @@ Here are some ideas to get you started:
 🔥 Recent Updates:
 ---
 ### Books
-- HOW TO TRADE IN STOCKS by JESSE L. LIVERMORE
 - THE AUTOIMMUNE FIX by TOM O'BRYAN
+- Designing Data-Intensive Applications by Martin Kleppmann
+- 明朝那些事 by Dangnian Mingyue
 
 ### New Maps
-- [The Rust Programming Language 🦀](https://rust-book.cs.brown.edu/)
-- CSAPP
+- Nothing at this moment
 
 🔥 My projects:
 ---
